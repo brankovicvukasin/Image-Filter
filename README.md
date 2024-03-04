@@ -9,7 +9,14 @@ This project is a Windows Forms application developed for the Multimedia Compute
 - **Compression**: Compress the processed content with or without compression in two modes - half-byte (16 values) and byte (256 values).
 - **Filters**: Support several filters, divided into groups based on student assignment. These include Shannon-Fano, Contrast, Sharpen, Edge Detect, Gamma, Emboss Laplac
 
-![Alt text](URL_to_image "Optional title")
+![Picture1](https://github.com/brankovicvukasin/Image-Filter/blob/main/pic1.png "pic1")
+
+
+![Picture2](https://github.com/brankovicvukasin/Image-Filter/blob/main/pic2.png "pic2")
+
+
+![Picture3](https://github.com/brankovicvukasin/Image-Filter/blob/main/pic3.png "pic3")
+
 
 ## Installation Guide
 1. **Prerequisites**: Ensure you have .NET Framework 4.7.2 or higher installed on your Windows machine.
