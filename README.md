@@ -25,12 +25,12 @@ This project is a Windows Forms application developed for the Multimedia Compute
 4. **Run**: After building, navigate to the `bin/Debug` or `bin/Release` directory inside the project folder. Run `MultimediaSystemsSoftware.exe` to start the application.
 
 ## Usage Guide
-1. **Opening an Image**: Click on `File > Open` to select and open a 24-bit bitmap image.
+1. **Opening an Image**: Click on `File > Ucitaj` to select and open a 24-bit bitmap image.
 2. **Applying Filters**: Navigate to the `Filters` menu to choose and apply different filters to the opened image.
-3. **Color Model Conversion**: Use the `Color Model` option in the menu to convert the image between RGB and YUV color models.
-4. **Downsampling and Compression**: Access these features under the `Image Processing` menu to apply downsampling and choose the compression mode.
-5. **Saving Images**: Save your edited images using `File > Save As` by choosing the custom format or as a standard bitmap image.
+3. **Color Model Conversion**: Use the `RGB->YUV` option in the menu to convert the image between RGB and YUV color models.
+4. **Downsampling and Compression**: Access these features under the `Downsampling` menu to apply downsampling and choose the compression mode.
+5. **Saving Images**: Save your edited images using `Save` by choosing the custom format or as a standard bitmap image.
 
-For more detailed information on the features and filters, refer to the `Documentation` folder included in the project repository.
+
 
 
